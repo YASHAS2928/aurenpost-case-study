@@ -434,53 +434,24 @@ The product experience was reorganised around outcomes, guided workflows, conten
 
 ## Product Screenshots
 
-The following image files should be stored inside the `assets` directory.
+Product Screenshots
+Guided onboarding
 
-### Guided onboarding
+The Start Here workspace introduces the product journey and directs users towards the right creation workflow.
 
-The Start Here experience introduces the product journey and helps users select the correct workflow.
 
-![AurenPost Start Here](assets/start-here.png)
 
-### Post Studio
 
-Post Studio generates structured LinkedIn posts using the user’s context, goal and preferred style.
+AI post generation
 
-![AurenPost Post Studio](assets/post-studio.png)
+Post Studio helps users generate structured LinkedIn posts from their goals, context and preferred style.
 
-### Caption Studio
 
-Caption Studio creates focused captions using structured user inputs.
 
-![AurenPost Caption Studio](assets/caption-studio.png)
 
-### Polish Studio
+Subscription and access management
 
-Polish Studio improves the clarity, grammar, flow and structure of an existing draft.
-
-![AurenPost Polish Studio](assets/polish-studio.png)
-
-### Library
-
-The Library stores previous outputs for later review and reuse.
-
-![AurenPost Library](assets/library.png)
-
-### Plan and Billing
-
-The billing interface displays plan details, usage allowances, expiry information and purchase options.
-
-![AurenPost Plan and Billing](assets/plan-billing.png)
-
-### Mobile Workspace
-
-AurenPost includes a dedicated mobile navigation experience.
-
-![AurenPost Mobile Workspace](assets/mobile-workspace.png)
-
-> Screenshots will appear after the corresponding files are uploaded to the `assets` directory.
-
----
+The billing system displays available plans, usage limits, expiry information and purchase actions.
 
 ## My Contribution
 
