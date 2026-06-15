@@ -433,25 +433,26 @@ The product experience was reorganised around outcomes, guided workflows, conten
 ---
 
 ## Product Screenshots
+## Product Screenshots
 
-Product Screenshots
-Guided onboarding
+### Guided Onboarding
 
-The Start Here workspace introduces the product journey and directs users towards the right creation workflow.
+The Start Here workspace introduces the AurenPost journey and helps users identify the right content workflow.
 
+![AurenPost Start Here](assets/start-here.png)
 
+### Post Studio
 
+Post Studio helps users generate structured LinkedIn posts using their topic, context, preferred tone and intended outcome.
 
-AI post generation
+![AurenPost Post Studio](assets/post-studio.png)
 
-Post Studio helps users generate structured LinkedIn posts from their goals, context and preferred style.
+### Content Planning
 
+The planning workspace helps users organise upcoming content and maintain a more consistent publishing workflow.
 
+![AurenPost Content Planning](assets/plan-billing.png)
 
-
-Subscription and access management
-
-The billing system displays available plans, usage limits, expiry information and purchase actions.
 
 ## My Contribution
 
