@@ -8,7 +8,7 @@ A full-stack SaaS product that helps professionals create structured LinkedIn po
 
 **Status:** Active development · Production source private
 
-[Live Product](www.aurenpost.com) · [Developer Profile](https://github.com/YASHAS2928) · [LinkedIn](https://www.linkedin.com/in/yashas-r9)
+[Live Product](https://www.aurenpost.com) · [Developer Profile](https://github.com/YASHAS2928) · [LinkedIn](https://www.linkedin.com/in/yashas-r9)
 
 </div>
 
