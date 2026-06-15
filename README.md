@@ -255,25 +255,24 @@ Desktop and mobile navigation required separate optimisation to avoid overcrowdi
 
 ## Screenshots
 
-Screenshots will be added for:
+Product Screenshots
+Guided onboarding
 
-* Start Here
-* Post Studio
-* Caption Studio
-* Polish Studio
-* Ideas Engine
-* Library
-* Plan and Billing
-* Mobile navigation
+The Start Here workspace introduces the product journey and directs users towards the right creation workflow.
 
-```markdown
-![AurenPost Start Here](assets/start-here.png)
-![AurenPost Post Studio](assets/post-studio.png)
-![AurenPost Workspace](assets/workspace.png)
-```
 
----
 
+
+AI post generation
+
+Post Studio helps users generate structured LinkedIn posts from their goals, context and preferred style.
+
+
+
+
+Subscription and access management
+
+The billing system displays available plans, usage limits, expiry information and purchase actions.
 ## My Contribution
 
 I designed and developed the AurenPost product architecture and worked across:
